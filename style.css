@@ -12,3 +12,9 @@ h2{ background-color:navajowhite;
   color:darkviolet;
    text-align:center
   }
+
+img{
+  width:50%
+    display:block;
+  margin:0 auto;
+}
