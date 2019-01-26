@@ -5,17 +5,24 @@ html,body{
  h1{ 
  background-color:mistyrose;
  color:mediumvioletred;
- text-align:center
+ text-align:center;
  }
 
 h2{ background-color:navajowhite;
   color:darkviolet;
-   text-align:center
+   text-align:center;
   }
 
 img
 {
   width:50%;
-    display:block;
+  display:block;
   margin:0 auto;
+}
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50;
 }
